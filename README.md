@@ -6,7 +6,7 @@ There are two ways for sending an alert:<br />
 
 Hardware components used:<br />
 • NodeMCU ESP8266.<br />
-• DHT11 Temperature and Humidity sensor.<br />
+• DHT11 Temperature and Humidity Sensor.<br />
 • BMP180 Barometric Pressure Sensor.<br />
 • MQ2 Smoke sensor.<br />
 
